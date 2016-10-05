@@ -29,3 +29,23 @@ IGGG は群馬大学理工学部の学園祭 "群桐祭" で催される "テク
 - master : 一応公開用でココを直接はいじらない
 - develop : なんか追加したいときにはココからブランチ切ってください
 - gh-page : IGGG の群桐祭に関する WEB サイト
+
+## GitHub Pages
+
+Jekyll を利用しています。
+
+使いたかった良い感じテーマが Jekyll にあったからです。
+カラースキームを IGGG カラーにして [Cleative Theme](https://github.com/volny/creative-theme-jekyll) を使わせてもらってます。
+Thanks !!!
+
+This software includes the work that is distributed in the Apache License 2.0
+
+いじりたいときは `gh-pages` のブランチで
+
+1. Ruby と Gem をインストールして Jekyll をインストール `gem install jekyll`
+2. いろいろといじる
+3. `jekyll serve` で確認
+
+だけ、とても簡単！
+出来たら push すれば反映されます。
+(できればさらにブランチを切ってプルリクしてくれるとよいかも)
