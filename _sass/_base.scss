@@ -159,6 +159,7 @@ header {
     text-align: center;
     color: white;
     .header-content {
+        background: rgba( $theme-dark, 0.89);
         position: relative;
         text-align: center;
         padding: 100px 15px 100px;
