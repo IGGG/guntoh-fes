@@ -1,0 +1,3 @@
+[submodule "apps/exifchan"]
+	path = apps/exifchan
+	url = git@github.com:IGGG/exifchan.git
