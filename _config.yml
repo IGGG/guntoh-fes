@@ -10,3 +10,6 @@ github_username: IGGG
 
 # Build settings
 markdown: kramdown
+
+plugins:
+- jekyll-redirect-from
